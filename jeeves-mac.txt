@@ -1,0 +1,15 @@
+GUI SPACE
+DELAY 500
+STRING safari
+ENTER
+DELAY 2000
+STRING theory11.com
+DELAY 500
+ENTER
+DELAY 20000
+GUI SPACE
+DELAY 500
+STRING terminal
+ENTER
+DELAY 500
+STRING will you be needing anything else sir?
