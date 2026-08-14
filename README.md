@@ -22,4 +22,5 @@ A collection of absolutely pointless scripts for your Flipper Zero. These script
 
 ## ⚠️ Disclaimer
 
+Do not execute scripts on devices you do not own and or do not have permission to use.
 Use at your own risk. This repository is not responsible for lost time, minor annoyances, or your friends rolling their eyes at you.
