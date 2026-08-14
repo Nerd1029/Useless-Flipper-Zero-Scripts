@@ -31,6 +31,10 @@ A collection of absolutely pointless scripts for your Flipper Zero. These script
 ## 🗒️ Note
 These scripts only work on Mac devices. In the future I will make a repo for Windows scripts.
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 # ⚠️ Disclaimer
 
 Do not execute scripts on devices you do not own and or do not have permission to use.
