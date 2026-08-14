@@ -30,6 +30,12 @@ A collection of absolutely pointless scripts for your Flipper Zero. These script
 
 * `tim-apple.txt`
 
+* `macflippertest`
+
+* `jar-o`
+
+* `macpyuninstaller`
+
 ## 🗒️ Note
 These scripts only work on Mac devices. In the future I will make a repo for Windows scripts.
 
