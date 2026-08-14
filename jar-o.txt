@@ -33,7 +33,7 @@ STRING  ya wanna hear more?
 DELAY 1000
 STRING  no? oh right, thats american for yes!
 DELAY 2000
-STRING  i took all of his money, yeah and i brought it home to moll.
+STRING  i took all of his money, yeah and i brought it home to Molly.
 DELAY 2000
 STRING  she swore that she'd love me, never would she leave me.
 DELAY 2500
