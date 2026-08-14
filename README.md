@@ -18,6 +18,8 @@ A collection of absolutely pointless scripts for your Flipper Zero. These script
 
 ## 🛠️ Included Scripts
 
+### Mac
+
 * `hello-there.txt`
 
 * `sanchez.txt`
@@ -36,7 +38,13 @@ A collection of absolutely pointless scripts for your Flipper Zero. These script
 
 * `macpyuninstaller`
 
+### Windows
+
 * `jeeves.txt`
+
+* `seeya.txt`
+
+* `testflipper.txt`
 
 ## 📄 License
 
