@@ -1,4 +1,4 @@
-# Useless-Flipper-Zero-Scripts-LOL
+# Useless Flipper Zero Scripts
 
 A collection of absolutely pointless scripts for your Flipper Zero. These scripts will not hack a mainframe. They will not open a Tesla charging port. They will barely even utilize your screen. They exist purely for the giggles.
 
@@ -18,9 +18,20 @@ A collection of absolutely pointless scripts for your Flipper Zero. These script
 
 ## 🛠️ Included Scripts
 
+* `hello-there.txt`
 
+* `jeeves-mac.txt`
 
-## ⚠️ Disclaimer
+* `macpyinstaller.txt`
+
+* `pug.txt`
+
+* `tim-apple.txt`
+
+## 🗒️ Note
+These scripts only work on Mac devices. In the future I will make a repo for Windows scripts.
+
+# ⚠️ Disclaimer
 
 Do not execute scripts on devices you do not own and or do not have permission to use.
 Use at your own risk. This repository is not responsible for lost time, minor annoyances, or your friends rolling their eyes at you.
