@@ -1,0 +1,25 @@
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 750
+STRING   hi! ya like music?
+DELAY 2000
+STRING  well let me play you a song!
+DELAY 2000
+STRING  just click the link below and enjoy! 
+DELAY 2000
+STRING  actally, to prevent you from clicking away, I'll just play the song for you!
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING safari
+DELAY 500
+ENTER
+DELAY 500
+GUI l
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+DELAY 500
+ENTER
