@@ -1,0 +1,12 @@
+GUI SPACE
+DELAY 1000
+STRING terminal
+DELAY 2000
+ENTER
+STRING PLEASE NOTE: Homebrew is required to run this script. If you do not have Homebrew installed, please install it first. If you do not you have 20 seconds to cancel this script and install Homebrew. If you have Homebrew installed, please wait for the script to continue.
+DELAY 20000
+ENTER
+DELAY 500
+STRING brew uninstall python
+DELAY 500
+ENTER
