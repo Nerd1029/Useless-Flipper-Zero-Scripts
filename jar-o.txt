@@ -31,7 +31,7 @@ STRING  i took all of his money and it was a pretty penny!
 DELAY 2500
 STRING  ya wanna hear more?
 DELAY 1000
-STRING  no? or right, thats american for yes!
+STRING  no? oh right, thats american for yes!
 DELAY 2000
 STRING  i took all of his money, yeah and i brought it home to molly.
 DELAY 2000
