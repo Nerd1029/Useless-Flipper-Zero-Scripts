@@ -34,9 +34,9 @@ A collection of absolutely pointless scripts for your Flipper Zero. These script
 
 * `macflippertest`
 
-* `jar-o`
+* `jar-o.txt`
 
-* `macpyuninstaller`
+* `macpyuninstaller.txt`
 
 ### Windows
 
