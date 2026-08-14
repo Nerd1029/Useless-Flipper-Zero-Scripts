@@ -39,5 +39,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # ⚠️ Disclaimer
 
-Do not execute scripts on devices you do not own and or do not have permission to use.
+Do not execute scripts on devices you do not own or do not have permission to use.
 Use at your own risk. This repository is not responsible for lost time, minor annoyances, or your friends rolling their eyes at you.
