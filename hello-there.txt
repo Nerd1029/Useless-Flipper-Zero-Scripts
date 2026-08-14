@@ -1,0 +1,33 @@
+DELAY 5000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 500
+STRING say hi!
+ENTER
+DELAY 2000
+STRING say hello there good sir! how are you doing today. I hope you are having a fine day!
+DELAY 500
+ENTER
+DELAY 7000
+STRING say I am doing well, thank you for asking. I hope you are having a good day as well!
+DELAY 500 
+ENTER
+DELAY 6000
+STRING say well, I am glad to hear that. I am having a good day as well. Thank you for asking!
+DELAY 500
+ENTER
+DELAY 6500
+STRING say well thats great to hear! I am glad you are having a good day as well. I hope you have a great rest of your day!
+DELAY 500
+ENTER
+DELAY 8000
+STRING say ok, i will! see you later!
+DELAY 500
+ENTER
+DELAY 3300
+STRING say goodbye!
+DELAY 500
+ENTER
