@@ -20,6 +20,8 @@ A collection of absolutely pointless scripts for your Flipper Zero. These script
 
 * `hello-there.txt`
 
+* `sanchez.txt`
+
 * `jeeves-mac.txt`
 
 * `macpyinstaller.txt`
