@@ -1,0 +1,15 @@
+GUI r
+DELAY 500
+STRING chrome
+ENTER
+DELAY 500
+STRING theory11.com
+DELAY 250
+ENTER
+DELAY 20000
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 500
+STRING will you be needing anything else sir?
