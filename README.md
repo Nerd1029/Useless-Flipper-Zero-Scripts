@@ -40,6 +40,8 @@ A collection of absolutely pointless scripts for your Flipper Zero. These script
 
 ### Windows
 
+* `darkwin.txt`
+
 * `jeeves.txt`
 
 * `seeya.txt`
